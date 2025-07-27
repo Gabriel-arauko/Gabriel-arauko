@@ -12,11 +12,7 @@ Meu nome é Gabriel Araujo Cavalcante, tenho 19 anos e moro em Brasília, DF. So
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=236ad3&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=1155ba&"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+    <a 
         />
     </a> 
     <a href="https://github.com/Gabriel-arauko/Gabriel-arauko/edit/main/README.md">
