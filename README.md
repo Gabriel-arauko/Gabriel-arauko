@@ -32,7 +32,6 @@ Atualmente desenvolvendo projetos práticos para consolidar **lógica de program
 - **SQL:** fundamentos de banco de dados e consultas
 - **Web:** HTML, CSS, JavaScript, Media Queries e Bootstrap
 - **C:** fundamentos e compilação com GCC
-- **Python:** fundamentos
 
 ### Ferramentas
 
