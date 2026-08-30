@@ -62,7 +62,7 @@ Atualmente desenvolvendo projetos práticos para consolidar **lógica de program
 ## Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-araujo-cavalcante-9075552a">
+  <a href="https:www.linkedin.com/in/gabriel-araujox">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
